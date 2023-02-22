@@ -1,0 +1,13 @@
+  #pricing
+  {
+    padding: 100px;
+  }
+  .price-text {
+    font-size: 1.3rem;
+    line-height: 1.5;
+    font-weight: bold;
+  }
+  .pricing-column
+  {
+    padding: 3% 2%;
+  }
